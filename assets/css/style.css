@@ -188,14 +188,14 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
 }
-
-.footer {
+/* Setting a unique class called .footer was redundent so I removed it and directly affected the footer.*/
+footer {
     padding: 30px;
     clear: both;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
 }
-
-.footer h2 {
+/*sets footer H2 font size*/
+footer h2 {
     font-size: 20px;
 }
