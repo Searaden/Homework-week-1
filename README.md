@@ -7,15 +7,6 @@
 A simple landing page the provides resorces and reasons on why and how to use certain web development startegies.
 Using these allow a use to maximize visitation to the website and maintain population
 
-## Table of Contents (Optional)
-
-If your README is long, add a table of contents to make it easy for users to find what they need.
-
-- [Installation](#installation)
-- [Usage](#usage)
-- [Credits](#credits)
-- [License](#license)
-
 ## Installation
 
 What are the steps required to install your project? Provide a step-by-step description of how to get the development environment running.
@@ -25,3 +16,7 @@ What are the steps required to install your project? Provide a step-by-step desc
 Click the links at the top of the page to travel to topics and descriptions located below
 
 ![Screenshot of Webpage](assets/images/HWweek1.png)
+
+## Credits
+
+https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide Provided starter README file
