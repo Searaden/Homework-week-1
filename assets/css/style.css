@@ -8,24 +8,24 @@
 body {
     background-color: #d9dcd6;
 }
-/* Affects class Header at the top of page */
-.header {
+/* Affects class Header at the top of page */ /*Removed .header as content can be applied directly to the header*/
+header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: #2a607c;
     color: #ffffff;
 }
 /* changes font size for H1 header within the header class*/
-.header h1 {
+header h1 {
     display: inline-block;
     font-size: 48px;
 }
 /*changes the color of letter "SEO" in the horiseon header*/
-.header h1 .seo {
+header h1 .seo {
     color: #d9dcd6;
 }
 /* sets fon attributes for nav bar*/
-.header nav {
+header nav {
     padding-top: 15px;
     margin-right: 20px;
     float: right;
@@ -33,11 +33,11 @@ body {
     font-size: 20px;
 }
 /*no list style for the links in header*/
-.header nav ul {
+header nav ul {
     list-style-type: none;
 }
 /*applies style and margin for the links withing the header*/
-.header nav ul li {
+header nav ul li {
     display: inline-block;
     margin-left: 25px;
 }
